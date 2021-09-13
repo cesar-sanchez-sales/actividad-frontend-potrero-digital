@@ -1,0 +1,53 @@
+h1 {
+    font-size: 37px;
+
+    color: #000000;
+
+    font-family: Tahoma, Helvetica, sans-serif;
+    
+    line-height: 46px;
+} 
+
+.CentrarTexto {
+    text-align: center;
+}
+
+
+
+* {
+    font-family:Verdana, Geneva, sans-serif;
+
+    font-size: 18px;
+
+}
+
+.Ancho {
+
+    font-weight: 900px;
+
+}
+
+
+h2 {
+    font-size: 25px;
+
+    line-height: 40px;
+
+    font-family: Tahoma, Helvetica, sans-serif;
+
+}
+
+p {
+    font-weight: 27px;
+    color: #333; 
+}
+
+
+img{
+    width: 50%;
+    height: 100%;
+    display: block;
+    border-radius: 40px;
+    box-shadow: 5px 5px 0px #ccc;
+}
+
